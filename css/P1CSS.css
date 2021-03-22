@@ -1,0 +1,18 @@
+.par {
+    Margin: 0% 25% 0% 25%;
+    font-size: 20px;
+}
+.img {
+    Margin: 0% 20% 0% 20%;
+    width: 60%;
+    height: auto;
+}
+.img_extras {
+    width: 300px;
+    height: auto;
+}
+.blocks {
+    display: inline-block;
+    width:300px;
+    height:auto;
+}
